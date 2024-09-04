@@ -53,6 +53,7 @@ curl_close($ch);
 
 <style>
     :root{
+        color-scheme: light dark;
         background-color: black;
     }
 
